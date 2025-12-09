@@ -35,8 +35,8 @@ const InstructorNavbar = () => {
                     />
                   </div>
                   <div className={css.rightUserDiv}>
-                    <div className={css.uname}>Hemanth Kumar Addagada</div>
-                    <div className={css.email}>addagadahemanth@gmail.com</div>
+                    <div className={css.uname}>Chilamkuri Narasimha Reddy</div>
+                    <div className={css.email}>chilamkurinarasimhareddy@gmail.com</div>
                   </div>
                 </Link>
               </div>

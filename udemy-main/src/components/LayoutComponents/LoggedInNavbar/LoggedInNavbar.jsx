@@ -71,8 +71,8 @@ const LoggedInNavbar = () => {
                     />
                   </div>
                   <div className={css.rightUserDiv}>
-                    <div className={css.uname}>Achi Venkata Eswar</div>
-                    <div className={css.email}>venkataeswarachi@gmail.com</div>
+                    <div className={css.uname}> Chilamkuri Narasimha Reddy</div>
+                    <div className={css.email}>chilamkurinarasimhareddy@gmail.comj</div>
                   </div>
                 </Link>
               </div>
@@ -132,7 +132,7 @@ const LoggedInNavbar = () => {
               </div>
               <hr className={css.hr} />
               <div className={css.prflDiv}>
-                <Link to="user/achi-venkata-eswar/" className={css.menuItem}>
+                <Link to="user/chilamkuri Narasimha Reddy/" className={css.menuItem}>
                   Public Profile
                 </Link>
                 <Link
